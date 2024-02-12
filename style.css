@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+}
+h2{
+    margin: auto;
+    padding-left: 30px;
+    margin-top: 30px;
+    max-width: 150px;
+  background-color: black;
+    border:  2px solid rgb(80, 52, 52);
+    color: aliceblue;
+    border-radius: 20px;
+}
+.colors{
+    padding: 20px;
+}
+.red {
+    width: 250px;
+    height: 270px;
+    border: 2px solid green;
+    background-color: yellowgreen;
+    border-radius: 12px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+.flex{
+   padding-top: 70px;
+}
+button{
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 10px;
+ background-color: bisque;
+
+}
